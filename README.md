@@ -8,10 +8,10 @@
 Multi-GPU LLM inference engine in Objective-C + Metal: custom mmap-backed GGUF loader, runtime-generated MSL kernels for 15 weight encodings, a declarative graph compiler, and a bounded-memory tiled executor.
 
 ## What I do
-- **Hardware security & reverse engineering** — custom JTAG probe design (Raspberry Pi Pico + OpenOCD), firmware and TEE analysis, fault injection
-- **Apple internals** — Lightning AV adapter reverse engineering to an interactive iBoot console, T2 fault injection, Mach-O binary reconstruction
+- **Hardware security & reverse engineering** — custom JTAG/SWD probe design (Raspberry Pi Pico + OpenOCD), firmware and TEE analysis
+- **Apple internals** — Lightning AV adapter checkm8 SecureROM research, Apple T2 DFU-mode enumeration, static Mach-O binary analysis
 - **GPU & systems programming** — Metal compute, multi-device execution, memory-bounded tiled inference
-- **Board-level work** — power optimization and hardware debugging (Xfinity XB3 / Arris platform)
+- **Board-level work** — UART debug bring-up and hardware debugging (Xfinity XB3 / Arris platform)
 
 ## Get in touch
 - [LinkedIn](https://www.linkedin.com/in/jamesmarcusanderson)
