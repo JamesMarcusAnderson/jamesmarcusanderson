@@ -1,6 +1,6 @@
 # Hi, I'm James Anderson
 
-**Hardware security & systems engineer** — I take things apart to understand how they work, then build things that work better.
+**Hardware security & systems engineer** — I take things apart to understand how they work, then build things that work better. Strictly white-hat: I research responsibly, disclose ethically, and build defensively.
 
 ## Featured work
 
