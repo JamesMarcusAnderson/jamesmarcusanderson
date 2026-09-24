@@ -1,6 +1,8 @@
 # Hi, I'm James Anderson
 
-**Hardware security & systems engineer** — I take things apart to understand how they work, then build things that work better. Strictly white-hat: I research responsibly, disclose ethically, and build defensively.
+**Hardware & systems engineer** — I take things apart to understand how they work, then build things that work better. Strictly white-hat: I research responsibly, disclose ethically, and build defensively.
+
+> 🎯 **Currently seeking:** overnight entry-level technology roles in Houston, TX — NOC technician, data center technician, IT support. I'm completing daytime university coursework (Physics II + Calculus II, prerequisites for a B.S. in Computer Engineering), so overnight shifts are my priority. Available immediately.
 
 ## Featured work
 
@@ -15,6 +17,6 @@ Multi-GPU LLM inference engine in Objective-C + Metal: custom mmap-backed GGUF l
 
 ## Get in touch
 - [LinkedIn](https://www.linkedin.com/in/jamesmarcusanderson)
-- Houston, TX — open to remote
+- Houston, TX — seeking overnight onsite roles
 
-*Open to hardware security, embedded systems, firmware, and systems engineering roles.*
+*Open to entry-level NOC, data center, IT support, hardware test, and field service roles — especially overnight shifts in Houston.*
