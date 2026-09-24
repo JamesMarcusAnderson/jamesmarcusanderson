@@ -6,7 +6,7 @@
 
 ## Featured work
 
-### [verum-slice](https://github.com/jamesmarcusanderson/verum-slice)
+### [Verum Bespoke Singularity](https://github.com/jamesmarcusanderson/verum-slice)
 Multi-GPU LLM inference engine in Objective-C + Metal: custom mmap-backed GGUF loader, runtime-generated MSL kernels for 15 weight encodings, a declarative graph compiler, and a bounded-memory tiled executor.
 
 ## What I do
