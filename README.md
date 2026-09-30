@@ -2,15 +2,13 @@
 
 **Hardware & systems builder** — I take things apart to understand how they work, then build things that work better. Strictly white-hat: I research responsibly and build defensively.
 
-> 🎯 **Currently seeking:** overnight NOC roles — US-remote nationwide, or on-site/hybrid in Houston, TX. Planned transfer pathway: B.S. Computer Engineering (UT Tyler). Available immediately.
-
 ## Featured work
 
 ### [BareBoard](https://bareboard.org)
 Free, open hardware-analysis platform — board-level teardowns, diagnostics guides, and standard operating procedures.
 
 ### [Verum Bespoke Singularity](https://github.com/jamesmarcusanderson/verum-bespoke-singularity)
-Multi-GPU LLM inference engine in Objective-C + Metal: custom mmap-backed GGUF loader, runtime-generated MSL kernels for 15 weight encodings, a declarative graph compiler, and a bounded-memory tiled executor. *(The name Verum Bespoke Singularity was coined by DeepSeek during the project's early design discussions.)*
+Multi-GPU LLM inference engine in Objective-C + Metal: custom mmap-backed GGUF loader, runtime-generated MSL kernels for 15 weight encodings, a declarative graph compiler, and a bounded-memory tiled executor.
 
 ### [Haywire](https://github.com/jamesmarcusanderson/haywire)
 Reproducing the published checkm8 SecureROM dump of the Apple Lightning AV Adapter (S5L8747) — read-only research; failures documented honestly.
@@ -33,9 +31,8 @@ Apple Smart Battery Case (A2070) debug console + I2C telemetry — read-only res
 - **GPU & systems programming** — Metal compute, multi-device execution, memory-bounded tiled inference
 - **Board-level work** — UART debug bring-up and hardware debugging (Xfinity XB3 / Arris platform)
 
-## Get in touch
+## Find me
 - [LinkedIn](https://www.linkedin.com/in/jamesmarcusanderson)
-- jamesmarcusanderson@protonmail.com
-- Houston, TX — seeking overnight NOC roles (US-remote or Houston on-site/hybrid)
+- [bareboard.org](https://bareboard.org)
 
-*Focused on overnight NOC roles — US-remote nationwide, or on-site/hybrid in Houston, TX.*
+📍 Houston, TX
