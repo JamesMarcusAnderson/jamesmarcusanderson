@@ -2,14 +2,14 @@
 
 **Hardware & systems builder** — I take things apart to understand how they work, then build things that work better. Strictly white-hat: I research responsibly and build defensively.
 
-> 🎯 **Currently seeking:** overnight entry-level technology roles in Houston, TX — NOC technician, data center technician, IT support. I'm completing daytime university coursework (Physics II + Calculus II, prerequisites for a B.S. in Computer Engineering), so overnight shifts are my priority. Available immediately.
+> 🎯 **Currently seeking:** overnight NOC / entry-level technology roles — US-remote nationwide, or on-site/hybrid in Houston, TX. I'm completing daytime university coursework (Physics II + Calculus II, prerequisites for a B.S. in Computer Engineering), so overnight shifts are my priority. Available immediately.
 
 ## Featured work
 
 ### [BareBoard](https://bareboard.org)
 Free, open hardware-analysis platform — board-level teardowns, diagnostics guides, and standard operating procedures.
 
-### [Verum Bespoke Singularity](https://github.com/jamesmarcusanderson/verum-slice)
+### [Verum Bespoke Singularity](https://github.com/jamesmarcusanderson/verum-bespoke-singularity)
 Multi-GPU LLM inference engine in Objective-C + Metal: custom mmap-backed GGUF loader, runtime-generated MSL kernels for 15 weight encodings, a declarative graph compiler, and a bounded-memory tiled executor. *(The name Verum Bespoke Singularity was coined by DeepSeek during the project's early design discussions.)*
 
 ### [Haywire](https://github.com/jamesmarcusanderson/haywire)
@@ -36,6 +36,6 @@ Apple Smart Battery Case (A2070) debug console + I2C telemetry — read-only res
 ## Get in touch
 - [LinkedIn](https://www.linkedin.com/in/jamesmarcusanderson)
 - jamesmarcusanderson@protonmail.com
-- Houston, TX — seeking overnight onsite roles
+- Houston, TX — seeking overnight NOC roles (US-remote or Houston on-site/hybrid)
 
 *Open to entry-level NOC, data center, IT support, hardware test, and field service roles — especially overnight shifts in Houston.*
