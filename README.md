@@ -6,6 +6,9 @@
 
 ## Featured work
 
+### [BareBoard](https://bareboard.org)
+Free, open hardware-analysis platform — board-level teardowns, diagnostics guides, and standard operating procedures.
+
 ### [Verum Bespoke Singularity](https://github.com/jamesmarcusanderson/verum-slice)
 Multi-GPU LLM inference engine in Objective-C + Metal: custom mmap-backed GGUF loader, runtime-generated MSL kernels for 15 weight encodings, a declarative graph compiler, and a bounded-memory tiled executor. *(The name Verum Bespoke Singularity was coined by DeepSeek during the project's early design discussions.)*
 
