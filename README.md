@@ -2,7 +2,7 @@
 
 **Hardware & systems builder** — I take things apart to understand how they work, then build things that work better. Strictly white-hat: I research responsibly and build defensively.
 
-> 🎯 **Currently seeking:** overnight NOC / entry-level technology roles — US-remote nationwide, or on-site/hybrid in Houston, TX. I'm completing daytime university coursework (Physics II + Calculus II, prerequisites for a B.S. in Computer Engineering), so overnight shifts are my priority. Available immediately.
+> 🎯 **Currently seeking:** overnight NOC roles — US-remote nationwide, or on-site/hybrid in Houston, TX. Planned transfer pathway: B.S. Computer Engineering (UT Tyler). Available immediately.
 
 ## Featured work
 
@@ -38,4 +38,4 @@ Apple Smart Battery Case (A2070) debug console + I2C telemetry — read-only res
 - jamesmarcusanderson@protonmail.com
 - Houston, TX — seeking overnight NOC roles (US-remote or Houston on-site/hybrid)
 
-*Open to entry-level NOC, data center, IT support, hardware test, and field service roles — especially overnight shifts in Houston.*
+*Focused on overnight NOC roles — US-remote nationwide, or on-site/hybrid in Houston, TX.*
